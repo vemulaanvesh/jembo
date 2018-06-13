@@ -1,0 +1,21 @@
+1.how to del files using linex code
+2.how to add branch in a branch
+3.where does the branch files store in local system
+4.how to push data without pass and username
+----------------------------------------------
+5.in JAVA pash ineshilazition we give echo $JAVA_HOME 
+what is $ means
+6.ERROR: Error executing command.  Cause: org.apache.ibatis.jdbc.RuntimeSqlException: Error executing: CREATE TABLE CHANGELOG (
+ID NUMERIC(20,0) NOT NULL,
+APPLIED_AT VARCHAR(25) NOT NULL,
+DESCRIPTION VARCHAR(255) NOT NULL
+7.ERROR: Environment file missing: /././environments/development.properties
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
