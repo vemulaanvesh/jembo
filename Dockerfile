@@ -9,8 +9,7 @@ RUN cd /var/www/html
 RUN mkdir vue
 RUN cd vue
 RUN git clone https://github.com/vemulaanvesh/VueDeployTest.git app
-RUN cd
-#RUN cd /etc/nginx/sites-available/
-RUN apt-get install vim 
-RUN vi default
-CMD ["npm run build]"
+COPY default /etc/nginx/sites-available
+# RUN apt-get install vim 
+# RUN vi default
+# CMD ["npm run build]"
